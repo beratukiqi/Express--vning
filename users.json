@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "berat",
+            "password": "berat123",
+            "email": "berat.u@live.se"
+        },
+        {
+            "username": "berat",
+            "password": "berat123",
+            "email": "berat.u@live.se"
+        },
+        {
+            "username": "Lisadwadwa",
+            "password": "berat123",
+            "email": "berat.u@gmail.com"
+        },
+        {
+            "username": "Lisa",
+            "password": "berat123",
+            "email": "berat.u@gmail.comdwadw"
+        }
+    ]
+}
